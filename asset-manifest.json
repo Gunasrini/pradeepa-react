@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pradeepa-app/static/css/main.ec23f9c6.css",
+    "main.js": "/pradeepa-app/static/js/main.fc85485d.js",
+    "static/js/787.381c7b79.chunk.js": "/pradeepa-app/static/js/787.381c7b79.chunk.js",
+    "index.html": "/pradeepa-app/index.html",
+    "main.ec23f9c6.css.map": "/pradeepa-app/static/css/main.ec23f9c6.css.map",
+    "main.fc85485d.js.map": "/pradeepa-app/static/js/main.fc85485d.js.map",
+    "787.381c7b79.chunk.js.map": "/pradeepa-app/static/js/787.381c7b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec23f9c6.css",
+    "static/js/main.fc85485d.js"
+  ]
+}
