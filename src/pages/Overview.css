@@ -1,0 +1,20 @@
+.overview-section {
+    background-color: #ccc;
+    /* height: 100vh; */
+}
+.about-section {
+    clear: both;
+    padding: 20px 10px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-section {
+    margin: auto auto 0;
+    clear: both;
+    padding-top: 20px;
+}
+.errorMsg {
+    color: #ff0000;
+    font-size: 14px;
+}

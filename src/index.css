@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.overview-section {
+  height: 100%;
+}
+.innerContainer {
+  padding: 10px 30px 30px;
+}
+.innerContainer h1 {
+  margin-bottom: 25px;
+}
+.sidebar-menu {
+  padding: 0 20px;
+}
+.sidebar-menu a {
+  display: block;
+  text-decoration: none;
+  padding: 10px;
+  background: #ccc;
+  margin-bottom: 15px;
+}
+.service-section {
+  padding: 20px;
+  background: #fff;
+  margin: 30px 0;
+}
+.service-section h1 {
+  margin: 0 0 15px;
+}
